@@ -1,4 +1,5 @@
 # XME CMS - Painel de Revenda (SaaS) | Reseller Panel (SaaS)
+![xme](https://github.com/user-attachments/assets/2c8f4490-3a6d-4c43-888b-7c5845974d15)
 
 **PT-PT 🇵🇹**  
 O **XME CMS** é uma solução SaaS (Software como Serviço) profissional para revendedores IPTV. Não requer qualquer instalação. Após a subscrição, recebe um URL exclusivo do painel onde poderá conectar-se ao seu servidor IPTV principal (Xtream UI, XUI One, Streamcreed).  
